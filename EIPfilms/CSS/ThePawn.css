@@ -1,0 +1,26 @@
+
+#maincontent{
+    background-image: url(/Images/Pawn.jpeg) ;
+    background-size: 500px 550px; 
+    /* margin-top: -200px; */
+    background-repeat: no-repeat;
+    background-position: center center;   
+    opacity: 0.98;
+    position: relative;
+}
+#introsec{
+    background-image: url(/Images/thepawnsuccess.png);
+    background-size: 400px 200px;
+    background-repeat: no-repeat;
+    background-position: center center;  
+}
+#asidesec{
+    background-image: url(/Images/thepawn2.png);
+    background-size: 400px 200px;
+    background-repeat: no-repeat;
+    background-position: center center;  
+    
+}
+.cast ol li a{
+    text-decoration: none;
+}
