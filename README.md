@@ -1,1 +1,1 @@
-Live Preview: https://ever-brands.vercel.app/everbrandsltd.html
+Live Preview: https://ever-brands.vercel.app/
